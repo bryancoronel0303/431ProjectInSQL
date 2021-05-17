@@ -1,4 +1,4 @@
-# 431ProjectInSQL
+# SalaryMgmtDatabaseSystem
 Salary Management Database System
 
 This repository contains the code and schema for my final project for a summer course on databases at Rutgers University.
